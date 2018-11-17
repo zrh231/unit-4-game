@@ -1,0 +1,85 @@
+
+#mainheader {
+    color: white;
+    background-color: orange;
+    font-size: 80%;
+    width: 200px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#info {
+    background-color: tan;
+    width: 600px;
+    height: 350px;
+}
+
+#worth{
+    background-color: mediumseagreen;
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    top: 475px;
+}
+
+#score {
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 325px;
+    top: 475px;
+}
+
+#total {
+    background-color: darkcyan;
+    width: 500px;
+    position: absolute;
+    top: 725px;
+}
+
+#totsco {
+    background-color: darkcyan;
+    width: 350px;
+    height: 100px;
+    position: absolute;
+    top: 800px;
+}
+#p1,
+#p2,
+#p3,
+#p4,
+#p5 {
+    color: green;
+}
+
+#img1 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 600px;
+}
+
+#img2 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 600px;
+    left: 125px;
+}
+
+#img3 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 600px;
+    left: 240px;
+}
+
+#img4 {
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top: 600px;
+    left: 340px;
+}
